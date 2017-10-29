@@ -19,6 +19,7 @@
       "testTsconfig": "tsconfig.spec.json",
       "prefix": "rb",
       "styles": [
+		"../node_modules/bootswatch/united/bootstrap.min.css",
         "styles.css"
       ],
       "scripts": [],
